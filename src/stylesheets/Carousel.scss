@@ -1,0 +1,17 @@
+.carousel-container{
+        width: 100%;
+        // margin: auto; 
+      
+      h3 {
+        text-align: center; 
+    }
+      .each-slide > div {
+        // display: flex;
+        // align-items: center;
+        // justify-content: center;
+       background: no-repeat;
+       background-position: center;
+       padding: 0 30px;
+        height: 200px;
+      }
+}

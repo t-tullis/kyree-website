@@ -2,10 +2,13 @@ import React from 'react'
 import newspaperIcon from '../images/newspaper.png'
 import likeIcon from '../images/like.png'
 import archivesIcon from '../images/archives.png'
+import Carousel from './Carousel.js'
 import '../stylesheets/AboutAndServices.scss'
 
 function AboutAndServices(){
     return(
+        <div>
+            <Carousel />
         <div className='about-and-services-container'>
             <div className='about'>
             <h2>About</h2>
@@ -18,11 +21,12 @@ function AboutAndServices(){
             <div className='services'>
                 <h2>Services</h2>
                 <ul>
-                    <li><img className='icons' src={newspaperIcon} /> Service 1</li>
-                    <li><img className='icons' src={likeIcon} />Service 2</li>
-                    <li><img className='icons' src={archivesIcon} />Service 3</li>
+                    <li><img className='icons' src={newspaperIcon} /> Media Relations</li>
+                    <li><img className='icons' src={likeIcon} />Brand Management</li>
+                    <li><img className='icons' src={archivesIcon} />Editorial</li>
                 </ul>
             </div>
+    </div>
     </div>
     )
 }
