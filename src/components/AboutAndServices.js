@@ -3,7 +3,6 @@ import newspaperIcon from '../images/newspaper.png'
 import likeIcon from '../images/like.png'
 import archivesIcon from '../images/archives.png'
 import CarouselSlide from './Carousel.js'
-import "react-responsive-carousel/lib/styles/carousel.min.css";
 import '../stylesheets/AboutAndServices.scss'
 
 function AboutAndServices(){
