@@ -13,6 +13,10 @@
         margin-left: 4rem;
         color: white;
 
+        @media(max-width: 500px){
+            margin-left: 0;
+        }
+
         h2{
             margin-bottom: 1rem;
             font-size: 2rem; 
@@ -38,17 +42,26 @@
         flex-basis: 55%;
         padding-top: 4rem;
 
+        @media(max-width: 500px){
+            flex-basis: 33%;
+            padding-top: 5.5rem;
+        }
+
         h2{
             font-size: 2rem;
             font-family: 'Playfair Display';
             color: white;
+
+            @media(max-width: 500px){
+               font-size: 1.15rem;
+            }
         }
 
         .footer-name-container{
             display: flex;
             justify-content: center;
             align-items: center;
-
+            
             
             .line1{
                 width: 5%;

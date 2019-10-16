@@ -43,7 +43,7 @@ function CarouselSlide(){
     },
     mobile: {
       breakpoint: {
-        max: 464,
+        max: 500,
         min: 0
       },
       items: 1,

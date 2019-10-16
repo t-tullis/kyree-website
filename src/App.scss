@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  animation: fadeIn 5s forwards;
 }
 
 .App-logo {
@@ -19,4 +20,13 @@
 
 .App-link {
   color: #09d3ac;
+}
+
+@keyframes fadeIn {
+  0%{
+      opacity: 0;
+  }
+  100%{
+      opacity: 1;
+  }
 }

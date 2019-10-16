@@ -3,6 +3,10 @@
     justify-content: space-evenly;
     padding: 5rem 0;
 
+    @media(max-width: 500px){
+        flex-direction: column;
+    }
+
     .about{
         flex-basis: 50%;
         font-family: 'Roboto';
@@ -30,7 +34,11 @@
         align-content: center;
         flex-basis: 30%;
         font-family: 'Roboto';
-        
+
+        @media(max-width: 500px){
+            margin-top: 3rem;
+        }
+
         h2{
             color: #03CEA4;
             font-size: 3rem;
@@ -41,6 +49,10 @@
             padding: 2rem 0;
             text-align: left;
             margin-left: 2rem;
+
+            @media(max-width: 500px){
+                text-align: center;
+            }
 
             li{
                 font-family: 'Roboto';

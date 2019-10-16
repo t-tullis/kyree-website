@@ -2,7 +2,7 @@ import React from 'react';
 import NameAndPhoto from './components/NameAndPhoto.js'
 import AboutAndServices from './components/AboutAndServices.js'
 import Footer from './components/Footer.js'
-import './App.css';
+import './App.scss';
 
 function App() {
   return (
