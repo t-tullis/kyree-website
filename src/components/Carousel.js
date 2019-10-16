@@ -4,12 +4,12 @@ import 'react-multi-carousel/lib/styles.css';
 import Gma from '../images/Logos/GoodMorningAmerica.png'
 import Forbes from '../images/Logos/Forbes.png'
 import Fortune from '../images/Logos/Fortune.png'
-import Bloomberg from '../images/Logos/Bloomberg.png'
-import BusinessInsider from '../images/Logos/bi-logo_mobile.png'
+import Bloomberg from '../images/Logos/bloomberg-logo.jpg'
+import BusinessInsider from '../images/Logos/BusinessInsiderlogo.png'
 import Ellen from '../images/Logos/Ellen1.png'
 import USAToday from '../images/Logos/USAToday.png'
 import WallStreet from '../images/Logos/WallStreet.png'
-import Inc from '../images/Logos/INC.png'
+import Inc from '../images/Logos/Inc-logo.png'
 import '../stylesheets/Carousel.scss'
 
 function CarouselSlide(){
