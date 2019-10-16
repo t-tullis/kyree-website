@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kyree-website/precache-manifest.6f26a15e3c7eafd409f8aadd0d9a0389.js"
+  "/kyree-website/precache-manifest.0314f3d1edab8ca6343c8adc47b52f95.js"
 );
 
 self.addEventListener('message', (event) => {

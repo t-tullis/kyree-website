@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b79a9de05313f91b92c95e9c2d469c9",
+    "revision": "9787b05ce5bb1c876a3bb97416efcbcc",
     "url": "/kyree-website/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kyree-website/static/css/2.38033737.chunk.css"
   },
   {
-    "revision": "151126cd3db3101c1901",
-    "url": "/kyree-website/static/css/main.31ce37bd.chunk.css"
+    "revision": "0b6c525e20f3e78b2a89",
+    "url": "/kyree-website/static/css/main.21d4900c.chunk.css"
   },
   {
     "revision": "dc78a1ba472a38319e5c",
     "url": "/kyree-website/static/js/2.870b2fbb.chunk.js"
   },
   {
-    "revision": "151126cd3db3101c1901",
-    "url": "/kyree-website/static/js/main.8c6238e5.chunk.js"
+    "revision": "0b6c525e20f3e78b2a89",
+    "url": "/kyree-website/static/js/main.01a76e69.chunk.js"
   },
   {
     "revision": "c89c54119d7d09047327",
