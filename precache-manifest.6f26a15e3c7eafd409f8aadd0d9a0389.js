@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "488adec02829bf1d23903e10ce4aee10",
+    "revision": "0b79a9de05313f91b92c95e9c2d469c9",
     "url": "/kyree-website/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kyree-website/static/css/2.38033737.chunk.css"
   },
   {
-    "revision": "08d5e2bc74c2ae8f4ec5",
-    "url": "/kyree-website/static/css/main.f50de728.chunk.css"
+    "revision": "151126cd3db3101c1901",
+    "url": "/kyree-website/static/css/main.31ce37bd.chunk.css"
   },
   {
     "revision": "dc78a1ba472a38319e5c",
     "url": "/kyree-website/static/js/2.870b2fbb.chunk.js"
   },
   {
-    "revision": "08d5e2bc74c2ae8f4ec5",
-    "url": "/kyree-website/static/js/main.38cc34c8.chunk.js"
+    "revision": "151126cd3db3101c1901",
+    "url": "/kyree-website/static/js/main.8c6238e5.chunk.js"
   },
   {
     "revision": "c89c54119d7d09047327",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kyree-website/static/media/archives.e0b4fa29.png"
   },
   {
-    "revision": "abac92a13a8096e65d4f0b6d465f337e",
-    "url": "/kyree-website/static/media/bi-logo_mobile.abac92a1.png"
+    "revision": "50ae233fdcfe7ff92a53905d9c9f3390",
+    "url": "/kyree-website/static/media/bloomberg-logo.50ae233f.jpg"
   },
   {
     "revision": "b67e76290dea53bf83e8127080cbea7a",

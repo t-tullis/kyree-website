@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/kyree-website/static/css/main.f50de728.chunk.css",
-    "main.js": "/kyree-website/static/js/main.38cc34c8.chunk.js",
-    "main.js.map": "/kyree-website/static/js/main.38cc34c8.chunk.js.map",
+    "main.css": "/kyree-website/static/css/main.31ce37bd.chunk.css",
+    "main.js": "/kyree-website/static/js/main.8c6238e5.chunk.js",
+    "main.js.map": "/kyree-website/static/js/main.8c6238e5.chunk.js.map",
     "runtime-main.js": "/kyree-website/static/js/runtime-main.db92a050.js",
     "runtime-main.js.map": "/kyree-website/static/js/runtime-main.db92a050.js.map",
     "static/css/2.38033737.chunk.css": "/kyree-website/static/css/2.38033737.chunk.css",
     "static/js/2.870b2fbb.chunk.js": "/kyree-website/static/js/2.870b2fbb.chunk.js",
     "static/js/2.870b2fbb.chunk.js.map": "/kyree-website/static/js/2.870b2fbb.chunk.js.map",
     "index.html": "/kyree-website/index.html",
-    "precache-manifest.1ab1aed80b4ce80bfdac0afdfd0720b0.js": "/kyree-website/precache-manifest.1ab1aed80b4ce80bfdac0afdfd0720b0.js",
+    "precache-manifest.6f26a15e3c7eafd409f8aadd0d9a0389.js": "/kyree-website/precache-manifest.6f26a15e3c7eafd409f8aadd0d9a0389.js",
     "service-worker.js": "/kyree-website/service-worker.js",
     "static/css/2.38033737.chunk.css.map": "/kyree-website/static/css/2.38033737.chunk.css.map",
-    "static/css/main.f50de728.chunk.css.map": "/kyree-website/static/css/main.f50de728.chunk.css.map",
+    "static/css/main.31ce37bd.chunk.css.map": "/kyree-website/static/css/main.31ce37bd.chunk.css.map",
     "static/media/GoodMorningAmerica.png": "/kyree-website/static/media/GoodMorningAmerica.98496a50.png",
     "static/media/OfficeColor.jpg": "/kyree-website/static/media/OfficeColor.912f0a62.jpg",
     "static/media/archives.png": "/kyree-website/static/media/archives.e0b4fa29.png",
-    "static/media/bi-logo_mobile.png": "/kyree-website/static/media/bi-logo_mobile.abac92a1.png",
+    "static/media/bloomberg-logo.jpg": "/kyree-website/static/media/bloomberg-logo.50ae233f.jpg",
     "static/media/like.png": "/kyree-website/static/media/like.b67e7629.png",
     "static/media/newspaper.png": "/kyree-website/static/media/newspaper.925b5da6.png",
     "static/media/styles.css": "/kyree-website/static/media/revicons.2feb69cc.eot"
@@ -25,7 +25,7 @@
     "static/js/runtime-main.db92a050.js",
     "static/css/2.38033737.chunk.css",
     "static/js/2.870b2fbb.chunk.js",
-    "static/css/main.f50de728.chunk.css",
-    "static/js/main.38cc34c8.chunk.js"
+    "static/css/main.31ce37bd.chunk.css",
+    "static/js/main.8c6238e5.chunk.js"
   ]
 }
