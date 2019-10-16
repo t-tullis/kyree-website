@@ -2,20 +2,22 @@ import React from 'react'
 import newspaperIcon from '../images/newspaper.png'
 import likeIcon from '../images/like.png'
 import archivesIcon from '../images/archives.png'
-import Carousel from './Carousel.js'
+import CarouselSlide from './Carousel.js'
+import "react-responsive-carousel/lib/styles/carousel.min.css";
 import '../stylesheets/AboutAndServices.scss'
 
 function AboutAndServices(){
     return(
         <div>
-            <Carousel />
+            <CarouselSlide/>
         <div className='about-and-services-container'>
             <div className='about'>
             <h2>About</h2>
             <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim ut sem viverra aliquet eget sit amet tellus cras. Eu facilisis sed odio morbi quis commodo odio aenean sed. Est ultricies integer quis auctor. Odio eu feugiat pretium nibh ipsum consequat nisl. Egestas maecenas pharetra convallis posuere morbi leo urna. Senectus et netus et malesuada fames ac turpis egestas sed. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus. Egestas dui id ornare arcu odio ut sem nulla pharetra. Egestas dui id ornare arcu odio ut sem nulla pharetra. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras.
-            
-            Amet nulla facilisi morbi tempus. Lacus laoreet non curabitur gravida arcu. Amet est placerat in egestas erat imperdiet. Aliquet eget sit amet tellus cras. Senectus et netus et malesuada fames ac turpis egestas. Mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus. Eu consequat ac felis donec et odio. Etiam erat velit scelerisque in dictum. Facilisis magna etiam tempor orci. Auctor urna nunc id cursus. Cursus eget nunc scelerisque viverra. Quis imperdiet massa tincidunt nunc. Vitae auctor eu augue ut lectus arcu bibendum. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus. Est ullamcorper eget nulla facilisi etiam dignissim diam quis enim. Suspendisse ultrices gravida dictum fusce ut. Bibendum arcu vitae elementum curabitur vitae nunc. Sit amet nisl purus in mollis.
+                Khaos Consulting is a virtual consulting firm, representing tech, lifestyle, and small business clients from all over the country. We specialize in public and media relations, but offer a wide variety of services to suit your individual business needs.
+            </p>
+            <p>
+                Founder Kyree Harmon has more than 8 years of experience as a communications and public relations professional, working with a diverse portfolio of entrepreneurs, National consumer brands, and global tech companies. This includes a mix of consulting work, agency, and in-house.
             </p>
             </div>
             <div className='services'>

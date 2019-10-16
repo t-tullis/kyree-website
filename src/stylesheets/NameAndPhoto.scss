@@ -48,19 +48,13 @@ table {
 }
 
 .name-and-photo-container{
-    // margin-top: 3rem;
-    // display: flex;
-    // justify-content: space-evenly;
-    // align-items: center;
-    // padding: 12rem 0;
-    animation: fadeIn 3s forwards;
+    animation: fadeIn 4s forwards;
 
     .name{
-        // width: 600px;
         position: absolute;
         width: 700px;
         top: 15rem;
-        left: 23rem;
+        left: 30%;
         font-size: 7rem;
         font-family: 'Playfair Display';
         text-shadow: 1px 2px black;
@@ -71,8 +65,6 @@ table {
     .header-photo{
         width: 100%;
         height: 100vh;
-        // opacity: .7;
-        border-radius: 5px;
     }
 }
 

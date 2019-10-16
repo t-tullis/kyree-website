@@ -1,90 +1,101 @@
-import React, { useState }from 'react';
-import { Slide } from 'react-slideshow-image';
+import React from 'react';
+import Carousel from 'react-multi-carousel';
+import 'react-multi-carousel/lib/styles.css';
 import Gma from '../images/Logos/GMA.jpg'
 import Forbes from '../images/Logos/Forbes.png'
 import Fortune from '../images/Logos/Fortune.png'
 import Bloomberg from '../images/Logos/Bloomberg.png'
-import BusinessInsider from '../images/Logos/GMA.jpg'
+import BusinessInsider from '../images/Logos/bi-logo_mobile.png'
 import Ellen from '../images/Logos/Ellen.jpg'
 import USAToday from '../images/Logos/USAToday.png'
 import WallStreet from '../images/Logos/WallStreet.png'
 import Inc from '../images/Logos/INC.png'
 import '../stylesheets/Carousel.scss'
 
-
-// const [carouselData, setCarouselData] = useState({
-//     image1: Gma,
-//     image2: Forbes,
-//     image3: Fortune,
-//     image4: Bloomberg,
-//     image5: BusinessInsider,
-//     image6: Ellen,
-//     image7: USAToday,
-//     image8: WallStreet,
-//     image9: Inc,
-// })
-
-const slideImages = [
-    Gma,
-    Forbes,
-    Fortune,
-    Bloomberg,
-    BusinessInsider,
-    Ellen,
-    USAToday,
-    WallStreet,
-    Inc
-  ];
-   
-  const properties = {
-    duration: 5,
-    transitionDuration: 5000,
-    infinite: true,
-    onChange: (oldIndex, newIndex) => {
-      console.log(`slide transition from ${oldIndex} to ${newIndex}`);
-    }
-  }
-
-function Carousel(){
+function CarouselSlide(){
     return(
-    <div className='carousel-container'>
-        <Slide {...properties}>
-
-          <div className="each-slide">
-            <div style={{'backgroundImage': `url(${slideImages[1]})`}}>
-            </div>
-          </div>
-
-          <div className="each-slide">
-            <div style={{'backgroundImage': `url(${slideImages[2]})`}}>
-            </div>
-            </div>
-
-            <div className="each-slide">
-            <div style={{'backgroundImage': `url(${slideImages[3]})`}}>
-            </div>
-            </div>
-
-            <div className="each-slide">
-            <div style={{'backgroundImage': `url(${slideImages[4]})`}}>
-            </div>
-            </div>
-
-            <div className="each-slide">
-            <div style={{'backgroundImage': `url(${slideImages[5]})`}}>
-            </div>
-            </div>
-            <div className="each-slide">
-            <div style={{'backgroundImage': `url(${slideImages[6]})`}}>
-            </div>
-            </div>
-            <div className="each-slide">
-            <div style={{'backgroundImage': `url(${slideImages[7]})`}}>
-            </div>
-        </div>
-        </Slide>
-    </div>
+<Carousel
+  additionalTransfrom={0}
+  arrows={false}
+  autoPlay
+  autoPlaySpeed={1}
+  centerMode={false}
+  className=""
+  containerClass="carousel-container"
+  customTransition="all 1s linear"
+  dotListClass=""
+  draggable
+  focusOnSelect={false}
+  infinite
+  itemClass=""
+  keyBoardControl
+  minimumTouchDrag={80}
+  renderButtonGroupOutside={false}
+  renderDotsOutside={false}
+  responsive={{
+    desktop: {
+      breakpoint: {
+        max: 3000,
+        min: 1024
+      },
+      items: 3,
+      partialVisibilityGutter: 40
+    },
+    mobile: {
+      breakpoint: {
+        max: 464,
+        min: 0
+      },
+      items: 1,
+      partialVisibilityGutter: 30
+    },
+    tablet: {
+      breakpoint: {
+        max: 1024,
+        min: 464
+      },
+      items: 2,
+      partialVisibilityGutter: 30
+    }
+  }}
+  showDots={false}
+  sliderClass=""
+  slidesToSlide={.5}
+  swipeable
+  transitionDuration={1000}
+>
+  <div className='carousel-imgs'>
+      <img src={Gma} />
+  </div>
+  
+  <div className='carousel-imgs'>
+    <img src={Forbes} />
+  </div>
+  
+  <div className='carousel-imgs'>
+    <img src={Fortune} />
+  </div>
+  
+  <div className='carousel-imgs'>
+    <img src={Bloomberg} />
+  </div>
+  <div className='carousel-imgs'>
+    <img src={BusinessInsider} />
+  </div>
+  <div className='carousel-imgs'>
+    <img src={Ellen} />
+  </div>
+  <div className='carousel-imgs'>
+    <img src={USAToday} />
+  </div>
+  <div className='carousel-imgs'>
+    <img src={WallStreet} />
+  </div>  
+  <div className='carousel-imgs'>
+    <img src={Inc} />
+  </div>
+</Carousel>
     )
 }
 
-export default Carousel;
+export default CarouselSlide;

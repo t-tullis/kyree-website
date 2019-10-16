@@ -9,10 +9,10 @@ function Footer(){
                     <h2>Contact</h2>
                     <ul>
                         <li>
-                            <i class="fas fa-envelope fa-lg"></i>Kyree.Harmon@gmail.com
+                            <i class="fas fa-envelope fa-lg"></i>info@khaosconsulting.com 
                         </li>
                         <li>
-                            <i class="fas fa-phone fa-lg"></i>123-456-7890
+                            <i class="fas fa-phone fa-lg"></i>(818) 588-6429
                         </li>
                         <li>
                             <i class="fas fa-map-pin fa-lg"></i>Los Angeles, CA
