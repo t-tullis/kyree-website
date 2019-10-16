@@ -1,12 +1,12 @@
 import React from 'react';
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
-import Gma from '../images/Logos/GMA.jpg'
+import Gma from '../images/Logos/GoodMorningAmerica.png'
 import Forbes from '../images/Logos/Forbes.png'
 import Fortune from '../images/Logos/Fortune.png'
 import Bloomberg from '../images/Logos/Bloomberg.png'
 import BusinessInsider from '../images/Logos/bi-logo_mobile.png'
-import Ellen from '../images/Logos/Ellen.jpg'
+import Ellen from '../images/Logos/Ellen1.png'
 import USAToday from '../images/Logos/USAToday.png'
 import WallStreet from '../images/Logos/WallStreet.png'
 import Inc from '../images/Logos/INC.png'
