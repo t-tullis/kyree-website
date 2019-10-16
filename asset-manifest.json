@@ -1,30 +1,32 @@
 {
   "files": {
-    "main.css": "/kyree-website/static/css/main.e75aa68f.chunk.css",
-    "main.js": "/kyree-website/static/js/main.8e7f2375.chunk.js",
-    "main.js.map": "/kyree-website/static/js/main.8e7f2375.chunk.js.map",
+    "main.css": "/kyree-website/static/css/main.0c2e5625.chunk.css",
+    "main.js": "/kyree-website/static/js/main.77d66724.chunk.js",
+    "main.js.map": "/kyree-website/static/js/main.77d66724.chunk.js.map",
     "runtime-main.js": "/kyree-website/static/js/runtime-main.db92a050.js",
     "runtime-main.js.map": "/kyree-website/static/js/runtime-main.db92a050.js.map",
-    "static/css/2.47fb9b64.chunk.css": "/kyree-website/static/css/2.47fb9b64.chunk.css",
-    "static/js/2.9f1c962b.chunk.js": "/kyree-website/static/js/2.9f1c962b.chunk.js",
-    "static/js/2.9f1c962b.chunk.js.map": "/kyree-website/static/js/2.9f1c962b.chunk.js.map",
+    "static/css/2.38033737.chunk.css": "/kyree-website/static/css/2.38033737.chunk.css",
+    "static/js/2.870b2fbb.chunk.js": "/kyree-website/static/js/2.870b2fbb.chunk.js",
+    "static/js/2.870b2fbb.chunk.js.map": "/kyree-website/static/js/2.870b2fbb.chunk.js.map",
     "index.html": "/kyree-website/index.html",
-    "precache-manifest.0080fb54d6cb626427b7b2e9a5b9eb76.js": "/kyree-website/precache-manifest.0080fb54d6cb626427b7b2e9a5b9eb76.js",
+    "precache-manifest.106d91353e5c1d72460fed5e728e829e.js": "/kyree-website/precache-manifest.106d91353e5c1d72460fed5e728e829e.js",
     "service-worker.js": "/kyree-website/service-worker.js",
-    "static/css/2.47fb9b64.chunk.css.map": "/kyree-website/static/css/2.47fb9b64.chunk.css.map",
-    "static/css/main.e75aa68f.chunk.css.map": "/kyree-website/static/css/main.e75aa68f.chunk.css.map",
+    "static/css/2.38033737.chunk.css.map": "/kyree-website/static/css/2.38033737.chunk.css.map",
+    "static/css/main.0c2e5625.chunk.css.map": "/kyree-website/static/css/main.0c2e5625.chunk.css.map",
     "static/media/Ellen.jpg": "/kyree-website/static/media/Ellen.ae42ca2d.jpg",
     "static/media/GMA.jpg": "/kyree-website/static/media/GMA.72936f50.jpg",
     "static/media/OfficeColor.jpg": "/kyree-website/static/media/OfficeColor.912f0a62.jpg",
     "static/media/archives.png": "/kyree-website/static/media/archives.e0b4fa29.png",
+    "static/media/bi-logo_mobile.png": "/kyree-website/static/media/bi-logo_mobile.abac92a1.png",
     "static/media/like.png": "/kyree-website/static/media/like.b67e7629.png",
-    "static/media/newspaper.png": "/kyree-website/static/media/newspaper.925b5da6.png"
+    "static/media/newspaper.png": "/kyree-website/static/media/newspaper.925b5da6.png",
+    "static/media/styles.css": "/kyree-website/static/media/revicons.2feb69cc.eot"
   },
   "entrypoints": [
     "static/js/runtime-main.db92a050.js",
-    "static/css/2.47fb9b64.chunk.css",
-    "static/js/2.9f1c962b.chunk.js",
-    "static/css/main.e75aa68f.chunk.css",
-    "static/js/main.8e7f2375.chunk.js"
+    "static/css/2.38033737.chunk.css",
+    "static/js/2.870b2fbb.chunk.js",
+    "static/css/main.0c2e5625.chunk.css",
+    "static/js/main.77d66724.chunk.js"
   ]
 }
