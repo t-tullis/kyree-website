@@ -22,13 +22,8 @@ function Footer(){
                 <div className='quick-links'>
                     <div className='footer-name-container'>
                         <div className='line1'></div>
-                        <h2> Kyree Harmon </h2>
+                        <h2> Khaos Consulting</h2>
                         <div className='line2'></div>
-                    </div>
-                    <div className='social-media'>
-                        <a href='#'> <i class="fab fa-twitter-square fa-3x"> </i></a>
-                        <a href='#'> <i class="fab fa-instagram fa-3x"></i></a>
-                        <a href='#'> <i class="fab fa-facebook-square fa-3x"></i> </a>
                     </div>
                 </div>
             </div>
