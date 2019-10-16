@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/kyree-website/static/css/main.0c2e5625.chunk.css",
-    "main.js": "/kyree-website/static/js/main.77d66724.chunk.js",
-    "main.js.map": "/kyree-website/static/js/main.77d66724.chunk.js.map",
+    "main.css": "/kyree-website/static/css/main.f50de728.chunk.css",
+    "main.js": "/kyree-website/static/js/main.38cc34c8.chunk.js",
+    "main.js.map": "/kyree-website/static/js/main.38cc34c8.chunk.js.map",
     "runtime-main.js": "/kyree-website/static/js/runtime-main.db92a050.js",
     "runtime-main.js.map": "/kyree-website/static/js/runtime-main.db92a050.js.map",
     "static/css/2.38033737.chunk.css": "/kyree-website/static/css/2.38033737.chunk.css",
     "static/js/2.870b2fbb.chunk.js": "/kyree-website/static/js/2.870b2fbb.chunk.js",
     "static/js/2.870b2fbb.chunk.js.map": "/kyree-website/static/js/2.870b2fbb.chunk.js.map",
     "index.html": "/kyree-website/index.html",
-    "precache-manifest.106d91353e5c1d72460fed5e728e829e.js": "/kyree-website/precache-manifest.106d91353e5c1d72460fed5e728e829e.js",
+    "precache-manifest.1ab1aed80b4ce80bfdac0afdfd0720b0.js": "/kyree-website/precache-manifest.1ab1aed80b4ce80bfdac0afdfd0720b0.js",
     "service-worker.js": "/kyree-website/service-worker.js",
     "static/css/2.38033737.chunk.css.map": "/kyree-website/static/css/2.38033737.chunk.css.map",
-    "static/css/main.0c2e5625.chunk.css.map": "/kyree-website/static/css/main.0c2e5625.chunk.css.map",
-    "static/media/Ellen.jpg": "/kyree-website/static/media/Ellen.ae42ca2d.jpg",
-    "static/media/GMA.jpg": "/kyree-website/static/media/GMA.72936f50.jpg",
+    "static/css/main.f50de728.chunk.css.map": "/kyree-website/static/css/main.f50de728.chunk.css.map",
+    "static/media/GoodMorningAmerica.png": "/kyree-website/static/media/GoodMorningAmerica.98496a50.png",
     "static/media/OfficeColor.jpg": "/kyree-website/static/media/OfficeColor.912f0a62.jpg",
     "static/media/archives.png": "/kyree-website/static/media/archives.e0b4fa29.png",
     "static/media/bi-logo_mobile.png": "/kyree-website/static/media/bi-logo_mobile.abac92a1.png",
@@ -26,7 +25,7 @@
     "static/js/runtime-main.db92a050.js",
     "static/css/2.38033737.chunk.css",
     "static/js/2.870b2fbb.chunk.js",
-    "static/css/main.0c2e5625.chunk.css",
-    "static/js/main.77d66724.chunk.js"
+    "static/css/main.f50de728.chunk.css",
+    "static/js/main.38cc34c8.chunk.js"
   ]
 }

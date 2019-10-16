@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c7abb7deeac7705e24694e43bb376d32",
+    "revision": "488adec02829bf1d23903e10ce4aee10",
     "url": "/kyree-website/index.html"
   },
   {
@@ -8,28 +8,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kyree-website/static/css/2.38033737.chunk.css"
   },
   {
-    "revision": "c52f910610c1994e3fbf",
-    "url": "/kyree-website/static/css/main.0c2e5625.chunk.css"
+    "revision": "08d5e2bc74c2ae8f4ec5",
+    "url": "/kyree-website/static/css/main.f50de728.chunk.css"
   },
   {
     "revision": "dc78a1ba472a38319e5c",
     "url": "/kyree-website/static/js/2.870b2fbb.chunk.js"
   },
   {
-    "revision": "c52f910610c1994e3fbf",
-    "url": "/kyree-website/static/js/main.77d66724.chunk.js"
+    "revision": "08d5e2bc74c2ae8f4ec5",
+    "url": "/kyree-website/static/js/main.38cc34c8.chunk.js"
   },
   {
     "revision": "c89c54119d7d09047327",
     "url": "/kyree-website/static/js/runtime-main.db92a050.js"
   },
   {
-    "revision": "ae42ca2d8a9fd83d43868f5133cbaa06",
-    "url": "/kyree-website/static/media/Ellen.ae42ca2d.jpg"
-  },
-  {
-    "revision": "72936f50d35ee343838fd19ba0d74757",
-    "url": "/kyree-website/static/media/GMA.72936f50.jpg"
+    "revision": "98496a5079d25cd1056dfd3a208538b4",
+    "url": "/kyree-website/static/media/GoodMorningAmerica.98496a50.png"
   },
   {
     "revision": "912f0a62694accbd8112018f60593dad",
