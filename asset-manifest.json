@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.e2b209e4.chunk.css",
+    "main.css": "/static/css/main.daa18f29.chunk.css",
     "main.js": "/static/js/main.633c86a3.chunk.js",
     "main.js.map": "/static/js/main.633c86a3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e0579000.js",
@@ -9,10 +9,10 @@
     "static/js/2.870b2fbb.chunk.js": "/static/js/2.870b2fbb.chunk.js",
     "static/js/2.870b2fbb.chunk.js.map": "/static/js/2.870b2fbb.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e80d9e823bce05858328fac8efe83751.js": "/precache-manifest.e80d9e823bce05858328fac8efe83751.js",
+    "precache-manifest.60406bc77cffaaad33bedc097e1b1953.js": "/precache-manifest.60406bc77cffaaad33bedc097e1b1953.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.2615a6d8.chunk.css.map": "/static/css/2.2615a6d8.chunk.css.map",
-    "static/css/main.e2b209e4.chunk.css.map": "/static/css/main.e2b209e4.chunk.css.map",
+    "static/css/main.daa18f29.chunk.css.map": "/static/css/main.daa18f29.chunk.css.map",
     "static/media/GoodMorningAmerica.png": "/static/media/GoodMorningAmerica.98496a50.png",
     "static/media/OfficeColor.jpg": "/static/media/OfficeColor.912f0a62.jpg",
     "static/media/archives.png": "/static/media/archives.e0b4fa29.png",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.e0579000.js",
     "static/css/2.2615a6d8.chunk.css",
     "static/js/2.870b2fbb.chunk.js",
-    "static/css/main.e2b209e4.chunk.css",
+    "static/css/main.daa18f29.chunk.css",
     "static/js/main.633c86a3.chunk.js"
   ]
 }
